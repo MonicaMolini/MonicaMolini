@@ -111,7 +111,7 @@ For me, a good digital product needs:
 
 ## Teaching
 
-Alongside client and personal projects, I work as a tutor and teacher in web development.
+Alongside client and personal projects, I work as a tutor and teacher in web development and design.
 
 I create lessons, exercises and practical projects on:
 
@@ -122,11 +122,18 @@ I create lessons, exercises and practical projects on:
 - SQL and databases
 - Git and GitHub
 - full stack project structure
+- Figma
+- Wordpress
+- Webflow
+- CMS
+- Ux/Ui
 
 ---
 
 ## Contact
 
-Portfolio: coming soon  
-LinkedIn: add your LinkedIn URL  
-Email: add your email  
+## Contact
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://titangraphics.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monica-molini-7606841b7/)
+[![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:titangraphic22@gmail.com)
