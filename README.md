@@ -132,8 +132,6 @@ I create lessons, exercises and practical projects on:
 
 ## Contact
 
-## Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel)](https://titangraphics.it)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/monica-molini-7606841b7/)
+[![Titan Graphics](https://img.shields.io/badge/Titan_Graphics-111827?style=for-the-badge&logo=vercel)](https://titangraphics.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/monica-molini-7606841b7/)
 [![Email](https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail)](mailto:titangraphic22@gmail.com)
