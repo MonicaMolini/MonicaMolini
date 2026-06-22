@@ -2,10 +2,6 @@
   <img src="./header-github.png" alt="Monica Molini - Web Designer, Full Stack Developer and Tutor" />
 </p>
 
-# Monica Molini
-
-**Web Designer · Full Stack Developer · Tutor**
-
 I design and build digital experiences that combine visual identity, usability and clean code.
 
 My work sits between design and development: I create interfaces, websites and web applications with attention to layout, responsiveness, accessibility, component structure and maintainability.
