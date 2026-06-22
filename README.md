@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./header-github.png" alt="Monica Molini - Web Designer, Full Stack Developer and Tutor" />
+</p>
+
 # Monica Molini
 
 **Web Designer · Full Stack Developer · Tutor**
