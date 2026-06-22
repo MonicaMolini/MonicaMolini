@@ -64,35 +64,6 @@ I also teach web development, helping students understand not only how to write 
 
 ---
 
-## Featured projects
-
-### TouristMe
-
-A travel-oriented community platform concept designed to let users discover, review and organize points of interest, with thematic itineraries supported by AI.
-
-**Focus:** community, travel experience, itinerary generation, UX structure  
-**Stack:** React, Node.js, Express, PostgreSQL, JWT
-
----
-
-### Personal Portfolio
-
-My portfolio website, designed and developed as a visual and technical showcase of my work.
-
-**Focus:** visual identity, responsive design, project presentation, interaction design  
-**Stack:** React, Vite, Tailwind CSS
-
----
-
-### Full Stack Auth System
-
-A complete authentication flow with registration, login, protected dashboard, editable user data and JWT-based authorization.
-
-**Focus:** authentication, protected routes, frontend/backend integration  
-**Stack:** React, Express, PostgreSQL, JWT, React Router
-
----
-
 ## My approach
 
 I care about building projects that are clear, usable and maintainable.
